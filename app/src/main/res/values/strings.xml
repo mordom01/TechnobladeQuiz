@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="choiceOne_button">Choice One</string>
+    <string name="choiceTwo_button">Choice Two</string>
+    <string name="next">Next</string>
+</resources>

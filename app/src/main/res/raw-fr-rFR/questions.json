@@ -1,0 +1,122 @@
+[
+  {
+    "question" : "Qui est Technoblade?",
+    "answers" :
+    [
+      "Un administrateur dans Minecraft Hypixel", "Un Youtuber"
+    ],
+    "correctAnswer" : "Un Youtuber"
+  },
+  {
+    "question" : "Qui était l'adversaire de Technoblade dans la saga de la guerre Great Potato",
+    "answers" :
+    [
+      "im_a_squid_kid", "Technostink"
+    ],
+    "correctAnswer" : "im_a_squid_kid"
+  },
+  {
+    "question" : "Vrai ou faux: Technoblade a déjà conquis SMP Earth",
+    "answers" :
+    [
+      "Vrai", "Faux"
+    ],
+    "correctAnswer" : "Vrai"
+  },
+  {
+    "question" : "Qui a piégé Technoblade dans une cage à eau avant le festival dans Dream SMP?",
+    "answers" :
+    [
+      "Dream", "Fundy"
+    ],
+    "correctAnswer" : "Fundy"
+  },
+  {
+  "question" : "Technoblade a fait quoi dans son spécial d'un million d'abonnés?",
+  "answers" :
+  [
+    "Visage Révéler", "Coude Révèler"
+  ],
+  "correctAnswer" : "Coude Révèler"
+  },
+  {
+    "question" : "Nommez le philosophe préféré de Technoblade",
+    "answers" :
+    [
+      "Sun Tzu", "Laozi"
+    ],
+    "correctAnswer" : "Sun Tzu"
+  },
+  {
+    "question" : "Vrai ou faux: Technoblade a remporté le Duel Mr.Beast de 100000 dollars avec Dream",
+    "answers" :
+    [
+      "Vrai", "Faux"
+    ],
+    "correctAnswer" : "Vrai"
+  },
+  {
+    "question" : "Nommez le chien de Technoblade dans la vraie vie",
+    "answers" :
+    [
+      "Puff", "Floof"
+    ],
+    "correctAnswer" : "Floof"
+  },
+  {
+    "question" : "Lequel des noms suivants est le surnom de Technoblade?",
+    "answers" :
+    [
+      "Technothepig", "Tenochtitlan, Mexique"
+    ],
+    "correctAnswer" : "Technothepig"
+  },
+  {
+    "question" : "Technoblade a utilisé quel théorème mathématique dans le duel Dream?",
+    "answers" :
+    [
+      "Troisième loi de Kepler", "Théorème de Pythagore"
+    ],
+    "correctAnswer" : "Théorème de Pythagore"
+  },
+  {
+    "question" : "Technoblade jouait à quel jeu avant Minecraft?",
+    "answers" :
+    [
+      "Cave Game Beta", "Team Fortress 2"
+    ],
+    "correctAnswer" : "Team Fortress 2"
+  },
+  {
+    "question" : "Technoblade a reçu quel rang sur Hypixel après avoir remporté la prestigieuse de Minecraft Mondays?",
+    "answers" :
+    [
+      "Le Pig Rank", "Le Blade Rank"
+    ],
+    "correctAnswer" : "The Pig Rank"
+  },
+  {
+    "question" : "Combien Technoblade a-t-il récolté à lui seul pour des œuvres caritatives dans Minecraft Ultimate Hunger Games?",
+    "answers" :
+    [
+      "$11,625", "$1,145,294"
+    ],
+    "correctAnswer" : "$11,625"
+  },
+  {
+    "question" : "Quelle est la devise principale de Technoblade?",
+    "answers" :
+    [
+      "GGWP nerd!", "Technoblade neva dies."
+    ],
+    "correctAnswer" : "Technoblade neva dies."
+  },
+  {
+    "question" : "Qu'est-ce que la biographie Twitter de Technoblade?",
+    "answers" :
+    [
+      "the second worst thing to ever happen to those orphans", "the winner of the $100,000 duel with Dream!"
+    ],
+    "correctAnswer" : "the second worst thing to ever happen to those orphans"
+  }
+]
